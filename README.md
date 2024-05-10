@@ -2,8 +2,8 @@
 - 👀 I’m interested in Front-End Development using React
 - 🌱 I’m currently learning Back End Development using Node.js
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me arun14k08@gmail.com
 - 📫 Also https://www.linkedin.com/in/arun-kumar-dhanaraj/
+- 📫 How to reach me arun14k08@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
