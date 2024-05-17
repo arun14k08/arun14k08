@@ -17,6 +17,6 @@ Seeking opportunities in Front-End Development
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-<br/>
-<img  src="https://github-readme-stats.vercel.app/api?username=arun14k08&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=arun14k08&theme=vue-dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arun14k08&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arun14k08&theme=vue-dark&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun14k08&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
