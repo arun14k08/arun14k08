@@ -7,7 +7,7 @@ Seeking opportunities in Front-End Development
 - 🤔 I’m looking for opportunities to work in tech!
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-kumar-dhanaraj/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-14k08/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I love to learn Personal Finance.
   
